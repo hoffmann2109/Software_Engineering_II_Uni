@@ -137,8 +137,8 @@ Anschließend habe ich die XML-Datei befüllt:
 ``` XML
 <person>  
     <name>Thomas Hoffmann</name>  
-    <matrikelnummer>12111464</matrikelnummer>  
-    <lastcommithash>03749abcdfb98cb7f8bdfcd1bef32b11afb0dccc</lastcommithash>  
+    <matrikelnummer>xxxxxxxx</matrikelnummer>  
+    <lastcommithash>xxxxxxxx</lastcommithash>  
     <githubusername>hoffmann2109</githubusername>  
     <repositoryname>Software_Engineering_II_Uni</repositoryname>  
     <repositoryurl>https://github.com/hoffmann2109/Software_Engineering_II_Uni</repositoryurl>  
